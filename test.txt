@@ -1,2 +1,7 @@
 this is test
+<<<<<<< HEAD
 this is test
+=======
+skdsk
+xxxxxxxxxxxxxxx
+>>>>>>> ca80cd6a8de6e0ee51c0a24790639fc0785a9307
